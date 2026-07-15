@@ -7,3 +7,6 @@ langchain-google-genai
 langgraph
 langsmith
 langchain_tavily
+langchain-groq
+langchain-mcp-adapters
+mcp
